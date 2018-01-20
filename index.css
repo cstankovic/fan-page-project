@@ -1,0 +1,92 @@
+body { 
+    background: url(imgs/backgroundimg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+    #jumbotron1{
+        background:none;
+        position: fixed;
+        top: 25%;
+        left: 50%;
+        transform: translateX(-50%);
+        display: block;
+        width: 100%;
+    }
+
+    #jumbotron2{
+        background:none;
+    }
+
+    .thebutton{
+        background-color: rgb(230, 205, 205);
+        color: #faf5f5;
+        border: #faf5f5;
+        
+        
+    }
+
+    .center {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .btn:hover {
+        background-color: grey;
+    }
+
+    .header-text{
+        color: #faf5f5;
+        text-align: center;
+    }
+
+    .navbar{
+        font-style: bold;
+        color: #faf5f5;
+    }
+
+    .navbar-light .navbar-toggler{
+        color:#faf5f5;
+    }
+
+   
+
+    .twitter1 {
+        position: absolute;
+        left: 95%;
+        top: 10%;
+        
+
+    }
+    .instagram1 {
+        position: absolute;
+        left: 90%;
+        top: 10%;
+    
+
+    }
+    .facebook1 {
+        position: absolute;
+        left: 85%;
+        top: 10%;
+
+    }
+
+    .pics {
+        width: 100%;
+        display: inline-block;
+        margin-top: 30px;
+    }
+    
+    .albums{
+        margin-top: 10%;
+    }
+
+  
+
+
+
+  
