@@ -1,0 +1,201 @@
+body { 
+    background: url(imgs/backgroundimg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+
+
+  }
+
+    #jumbotron1{
+        background:none;
+        position: fixed;
+        top: 25%;
+        left: 50%;
+        transform: translateX(-50%);
+        display: block;
+        width: 100%;
+    }
+
+    #jumbotron2{
+        background:none;
+    }
+
+    .jumbotron{
+        padding: 0;
+    }
+
+    .thebutton{
+        background-color: rgb(230, 205, 205);
+        color: #faf5f5;
+        border: #faf5f5;
+        
+        
+    }
+
+    .btn:hover {
+        background-color: grey;
+    }
+
+ 
+
+    .navbar{
+        font-style: bold; 
+    }
+
+    .navbar-brand {
+        color:#faf5f5!important;
+    }
+
+    .nav-link {
+        color:#faf5f5;
+    }
+
+    .bg-light {
+        background-color: transparent!important;
+    }
+
+    .navbar-light .navbar-toggler{
+        color:#faf5f5;
+    }
+
+    .nav-link {
+        color:#faf5f5!important;
+       
+    }
+
+    .navbar-toggler .navbar-right {
+        float: left;
+        margin-left: 10px;
+      }
+    
+    .navbar-toggler-icon{
+        position: absolute;
+        left:30%;
+        top: 30%;
+        height:1rem;
+    }
+
+   
+
+   
+
+    .twitter1 {
+        position: absolute;
+        right: 1rem;
+        top: 3%;
+        color: #faf5f5;
+        
+
+    }
+    .instagram1 {
+        position: absolute;
+        right: 3rem;
+        top: 3%;
+        color: #faf5f5;
+    
+
+    }
+    .facebook1 {
+        position: absolute;
+        right: 5rem;
+        top: 3%;
+        color: #faf5f5;
+
+    }
+
+    .spotify1 {
+        position: absolute;
+        right: 7rem;
+        top: 3%;
+        color:#faf5f5;
+    }
+
+    .pics {
+        width: 100%;
+        display: inline-block;
+        padding: 2rem;
+        
+       
+    }
+    
+    .albums{
+        margin-top: 10%;
+    }
+
+    .bio {
+        background-color:#faf5f5;
+        position: absolute;
+
+    }
+
+    .table {
+        margin: 10%;
+        color: #faf5f5;
+        width: 80%;
+        max-width: 80%;
+        
+    }
+    
+    .table tbody tr:hover td, .table tbody tr:hover th {
+        background-color: #eeeeea;
+    }
+
+    .bio-pic {
+        max-width: 100%;
+        display: inline-block;
+        margin-top: 30px;
+        position: relative;
+        border-radius: 50%;
+      
+    }
+
+    .header-text{
+        color: #faf5f5;
+        text-align: center;
+        margin-top: 5rem;
+        font-size: 400%;
+        letter-spacing: 2px;
+        vertical-align: middle;
+        font-style: italic;
+    }
+
+    .page-header-text{
+        color: #faf5f5;
+        margin-top: 20px;
+      
+        
+    }
+
+    .bio {
+        padding: 10%;
+        background: transparent;
+    }
+
+    .about-header {
+        height: 13rem;
+        display: block;
+
+    }
+
+    .about-pic {
+        max-width: 50%;
+        position: absolute;
+        left: 25%;
+        top: 40%;
+        margin-bottom:10px;
+    }
+
+    .about-container {
+        max-width: 100%;
+        margin-top: 10%;
+    }
+
+  
+
+
+
+  
